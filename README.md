@@ -7,3 +7,5 @@
 - protein bars
 - rice
 - strawberries 
+- blueberries
+- yogurt
