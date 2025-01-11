@@ -1,2 +1,9 @@
 # shopping-list
-practice assignment week 1
+
+- bagels
+- cream cheese
+- eggs
+- pizza
+- protein bars
+- rice
+- strawberries 
